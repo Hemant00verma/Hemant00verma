@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **- 🎓 MCA student at **Madan Mohan Malviya University of Technology** - 🔭 Currently solving **DSA problems on LeetCode****
 
-- 📫 How to reach me **abhi002verma@gmail.com**
+- 📫 How to reach me **hemant112002kumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
